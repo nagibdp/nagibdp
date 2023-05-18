@@ -5,7 +5,7 @@
     <a href="https://www.youtube.com/@thedreaman8151" target="blank">
         <img alt="YouTube Channel" src="https://i.imgur.com/cScmuUL.png" height="35" width="120">
     </a>
-    <a href="https://www.linkedin.com/in/josue-delgadillo-b511021a4/" target="blank">
+    <a href="https://www.linkedin.com/in/josuedelgadillodev/" target="blank">
         <img alt="YouTube Channel" src="https://i.imgur.com/pQH3mME.png" height="35" width="120">
     </a>   
 </div>
